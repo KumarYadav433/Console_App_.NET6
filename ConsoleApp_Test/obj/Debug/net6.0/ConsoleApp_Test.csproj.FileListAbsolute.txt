@@ -1,0 +1,15 @@
+C:\Users\kpotharla\source\repos\ConsoleApp_Test\ConsoleApp_Test\bin\Debug\net6.0\ConsoleApp_Test.exe
+C:\Users\kpotharla\source\repos\ConsoleApp_Test\ConsoleApp_Test\bin\Debug\net6.0\ConsoleApp_Test.deps.json
+C:\Users\kpotharla\source\repos\ConsoleApp_Test\ConsoleApp_Test\bin\Debug\net6.0\ConsoleApp_Test.runtimeconfig.json
+C:\Users\kpotharla\source\repos\ConsoleApp_Test\ConsoleApp_Test\bin\Debug\net6.0\ConsoleApp_Test.dll
+C:\Users\kpotharla\source\repos\ConsoleApp_Test\ConsoleApp_Test\bin\Debug\net6.0\ConsoleApp_Test.pdb
+C:\Users\kpotharla\source\repos\ConsoleApp_Test\ConsoleApp_Test\obj\Debug\net6.0\ConsoleApp_Test.csproj.AssemblyReference.cache
+C:\Users\kpotharla\source\repos\ConsoleApp_Test\ConsoleApp_Test\obj\Debug\net6.0\ConsoleApp_Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kpotharla\source\repos\ConsoleApp_Test\ConsoleApp_Test\obj\Debug\net6.0\ConsoleApp_Test.AssemblyInfoInputs.cache
+C:\Users\kpotharla\source\repos\ConsoleApp_Test\ConsoleApp_Test\obj\Debug\net6.0\ConsoleApp_Test.AssemblyInfo.cs
+C:\Users\kpotharla\source\repos\ConsoleApp_Test\ConsoleApp_Test\obj\Debug\net6.0\ConsoleApp_Test.csproj.CoreCompileInputs.cache
+C:\Users\kpotharla\source\repos\ConsoleApp_Test\ConsoleApp_Test\obj\Debug\net6.0\ConsoleApp_Test.dll
+C:\Users\kpotharla\source\repos\ConsoleApp_Test\ConsoleApp_Test\obj\Debug\net6.0\refint\ConsoleApp_Test.dll
+C:\Users\kpotharla\source\repos\ConsoleApp_Test\ConsoleApp_Test\obj\Debug\net6.0\ConsoleApp_Test.pdb
+C:\Users\kpotharla\source\repos\ConsoleApp_Test\ConsoleApp_Test\obj\Debug\net6.0\ConsoleApp_Test.genruntimeconfig.cache
+C:\Users\kpotharla\source\repos\ConsoleApp_Test\ConsoleApp_Test\obj\Debug\net6.0\ref\ConsoleApp_Test.dll
